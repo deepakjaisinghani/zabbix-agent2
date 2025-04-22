@@ -15,5 +15,6 @@ COPY odbc.ini /etc/odbc.ini
 COPY odbcinst.ini /etc/odbcinst.ini
 
 RUN chown zabbix:zabbix /etc/odbc.ini /etc/odbcinst.ini
+
 USER zabbix
 
