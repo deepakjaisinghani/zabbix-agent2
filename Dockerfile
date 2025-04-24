@@ -10,7 +10,7 @@ RUN apk update && \
       sqlite \
       freetds \
       iputils \
-      busybox-extras
+      busybox-extras \
       curl \
       bash
 
