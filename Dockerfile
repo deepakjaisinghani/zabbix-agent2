@@ -1,4 +1,4 @@
-FROM zabbix/zabbix-proxy-sqlite3:7.0.6-alpine
+FROM zabbix/zabbix-proxy-sqlite3:7.2.6-alpine
 
 USER root
 
