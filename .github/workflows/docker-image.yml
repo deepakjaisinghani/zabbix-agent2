@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: deepakjaisinghani/zabbix-proxy-odbc:7_0_6
+          tags: deepakjaisinghani/zabbix-proxy-odbc:7_2_6
